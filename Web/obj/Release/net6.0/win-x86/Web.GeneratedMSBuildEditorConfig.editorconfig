@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web
+build_property.RootNamespace = Web
+build_property.ProjectDir = C:\Users\User\Desktop\Projects\Freelans\price.checker\Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\Projects\Freelans\price.checker\Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/KupiFlakon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS3VwaUZsYWtvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/LemonAcid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVtb25BY2lkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/MalicAcid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFsaWNBY2lkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/MonosodiumGlutamate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9ub3NvZGl1bUdsdXRhbWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/Polysorbate80.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9seXNvcmJhdGU4MC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/PotassiumChloride.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG90YXNzaXVtQ2hsb3JpZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/PotassiumSorbate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG90YXNzaXVtU29yYmF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/PropyleneGlycol.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvcHlsZW5lR2x5Y29sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/Salt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/SodiumBenzoate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29kaXVtQmVuem9hdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/SuccinicAcid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VjY2luaWNBY2lkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/TartaricAcid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFydGFyaWNBY2lkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Projects/Freelans/price.checker/Web/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-esyc55q667

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\User\Desktop\Projects\Freelans\price.checker\Web\obj\Release\net6.0\win-x86\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\User\Desktop\Projects\Freelans\price.checker\Web\obj\Release\net6.0\win-x86\PubTmp\EFSQLScripts\Infrastructure.Persistence.ThisBotDbContext.sql" />
+</sitemanifest>
